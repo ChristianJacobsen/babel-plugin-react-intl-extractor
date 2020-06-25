@@ -1,13 +1,13 @@
 {
-  "name": "babel-plugin-react-intl-extractor",
-  "version": "1.0.8",
+  "name": "@christianjacobsen/babel-plugin-react-intl-extractor",
+  "version": "1.0.9-alpha1",
   "description": "Extracts string messages from translation from modules that use React Intl.",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bolid1/babel-plugin-react-intl-extractor.git"
+    "url": "git+https://github.com/ChristianJacobsen/babel-plugin-react-intl-extractor.git"
   },
-  "author": "Valery Vargin <VDVUGaD@gmail.com>",
+  "author": "Valery Vargin <VDVUGaD@gmail.com>, Fernando Maia <fsmaia@gmail.com>, Christian A. Jacobsen <christian@jenkins.no>",
   "license": "BSD-3-Clause",
   "keywords": [
     "babel-plugin",
